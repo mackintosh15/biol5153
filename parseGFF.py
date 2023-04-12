@@ -15,8 +15,10 @@ args = parser.parse_args()
 
 with open(args.gff, "r") as gff_file:
     for line in gff_file:
-        print(line.strip())
+        columns = line.strip().split("\t")
+        print(columns)
 
 with open(args.fasta, "r") as fasta_file:
     for line in fasta_file:
-        print(line.strip())
+        columns = line.strip().split("\t")
+        print(columns)
