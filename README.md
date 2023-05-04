@@ -1,4 +1,4 @@
-# coding for Biologists 
+# Coding for Biologists 
 Everything was initially put in the 'master' branch through Bash, this main branch is added to by using GitHub Desktop
  
 # hello_world.py    
