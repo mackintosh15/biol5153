@@ -13,4 +13,7 @@ Assignment 3 was used to practice remote computing through the university. The o
 An automated SLURM script was created to be used for remote computing 
  
 # Assignment 5 
-Built upon assignment 4, in which argparse was added to the SLURM script
+Built upon assignment 4, in which argparse was added to the SLURM script 
+ 
+# Assignment 6 
+A parse script was creating to deal with genomic files
